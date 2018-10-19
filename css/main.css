@@ -125,7 +125,13 @@ PLEASE DO NOT EDIT THIS CSS.
   body {
     background-color: #18191c;
   }
-  .navbar {
+
+/*------------------------------------*\
+    5. HEADER NAVBAR
+\*------------------------------------*/
+
+/* 5.2. HEADER NAVBAR */
+  .main-navigation {
     -webkit-transition: all 0.6s ease-out;
     -moz-transition: all 0.6s ease-out;
     -o-transition: all 0.6s ease-out;
@@ -133,13 +139,7 @@ PLEASE DO NOT EDIT THIS CSS.
     transition: all 0.6s ease-out;
 }
 
-.navbar.scrolled {
+  .navbar.scrolled {
     background: rgb(68, 68, 68); /* IE */
     background: rgba(0, 0, 0, 0.78); /* NON-IE */
 }
-
-/*------------------------------------*\
-    5. HEADER NAVBAR
-\*------------------------------------*/
-
-/* 5.2. HEADER NAVBAR */
