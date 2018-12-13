@@ -1,6 +1,6 @@
 /* Top Level - Main JS */
 
-var SiteStartDate = '2018/11/1 04:45'; // The Date Of Site Opening 2017/11/1 08:00
+var SiteStartDate = '2019/11/1 04:45'; // The Date Of Site Opening 2017/11/1 08:00
 var VideoBgId = 'sfKhFktHtsI'; // Code of Youtube Video Background
 
 
