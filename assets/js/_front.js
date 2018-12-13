@@ -118,13 +118,6 @@ jQuery(document).ready(function(){
 		return false;
 	});
 
-	if( $('#video_bg').length > 0 ) {
-		$('#video_bg').tubular({
-			videoId: VideoBgId,
-			start: 3
-		});
-	}
-
 });
 
 /* Vertical Alignment */
